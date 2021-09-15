@@ -1,3 +1,5 @@
+[![hackmd-github-sync-badge](https://hackmd.io/BUrGkYGLTQqFnoS3CFc-_g/badge)](https://hackmd.io/BUrGkYGLTQqFnoS3CFc-_g)
+
 # アニメスタジオの系図
 
 ```graphviz
